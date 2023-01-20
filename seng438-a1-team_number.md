@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group Number      |
+| Group: 22      |
 |-----------------|
-| Student 1 name                |   
-| Student 2 name              |   
-| Student 3 name               |   
-| Student 4 name                |   
+| Student 1 Topan Budiman                |   
+| Student 2 Mark Ngu              |   
+| Student 3 Jacob Schon               |   
+| Student 4 Mouhammed Shah                 |   
 
 
 **Table of Contents**
